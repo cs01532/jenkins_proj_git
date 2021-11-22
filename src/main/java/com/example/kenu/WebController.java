@@ -12,7 +12,7 @@ public class WebController {
     public String main() {
         return "<a href=\"https://infoq.com\">infoq.com</a><br>" 
             +"<a href=\"https://naver.com\">naver.com!</a>"
-            +"<a href=\"https://daum.net\">daum.net!</a>";
+            +"<a href=\"https://daum.net\">daum.net!!</a>";
     }
 }
 
